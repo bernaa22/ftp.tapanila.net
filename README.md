@@ -1,1 +1,1 @@
-# ftp.ijcar.org
+# ftp.tapanila.net
